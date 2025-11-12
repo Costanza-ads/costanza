@@ -13,8 +13,15 @@ https://docs.djangoproject.com/en/5.1/ref/settings/
 from pathlib import Path
 import environ
 import os
+<<<<<<< HEAD
+import sys
 # Build paths inside the project like this: BASE_DIR / 'subdir'.
 BASE_DIR = Path(__file__).resolve().parent.parent
+sys.path.append(str(BASE_DIR))
+=======
+# Build paths inside the project like this: BASE_DIR / 'subdir'.
+BASE_DIR = Path(__file__).resolve().parent.parent
+>>>>>>> 2e5270559c19f8b373eeaaf953257202a17bc03d
 
 
 # Quick-start development settings - unsuitable for production
@@ -45,6 +52,10 @@ INSTALLED_APPS = [
     'user',
     'friends',
     'events',
+<<<<<<< HEAD
+    'trilhas',
+=======
+>>>>>>> 2e5270559c19f8b373eeaaf953257202a17bc03d
 ]
 
 REST_FRAMEWORK = {
