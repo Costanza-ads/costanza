@@ -30,9 +30,13 @@ urlpatterns = [
     # Rotas de amizades
     path('api/v1/', include('friends.api.v1.router')),
     # Rotas de eventos universitários
+<<<<<<< HEAD
     path('api/v1/events/', include('events.api.v1.router')),
     # Rotas do sistema de estudos
     path('api/v1/', include('trilhas.api.v1.router')),
+=======
+    path('api/v1/', include('events.api.v1.router')),
+>>>>>>> 2e5270559c19f8b373eeaaf953257202a17bc03d
     
     # URLs da documentação API
     path('api/schema/', SpectacularAPIView.as_view(), name='schema'),
