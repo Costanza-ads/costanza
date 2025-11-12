@@ -1,0 +1,14 @@
+__turbopack_load_page_chunks__("/_app", [
+  "static/chunks/28d3e_next_dist_compiled_next-devtools_index_d86870fe.js",
+  "static/chunks/28d3e_next_dist_compiled_3504f645._.js",
+  "static/chunks/28d3e_next_dist_shared_lib_58d59493._.js",
+  "static/chunks/28d3e_next_dist_client_9c0e6217._.js",
+  "static/chunks/28d3e_next_dist_f62b6492._.js",
+  "static/chunks/28d3e_next_app_91b2a6ef.js",
+  "static/chunks/[next]_entry_page-loader_ts_e4e5649f._.js",
+  "static/chunks/28d3e_react-dom_fd64d8da._.js",
+  "static/chunks/28d3e_461eb8b2._.js",
+  "static/chunks/[root-of-the-server]__11289724._.js",
+  "static/chunks/OneDrive_Área de Trabalho_costanza-main_frontend-next_pages__app_2da965e7._.js",
+  "static/chunks/9f58e_Área de Trabalho_costanza-main_frontend-next_pages__app_a7acce73._.js"
+])

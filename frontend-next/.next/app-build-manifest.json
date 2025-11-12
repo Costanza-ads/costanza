@@ -1,0 +1,24 @@
+{
+  "pages": {
+    "/page": [
+      "static/chunks/ff63d_next_dist_2a34b616._.js",
+      "static/chunks/81c7b_costanzaVE-master_frontend-next_src_app_favicon_ico_mjs_70d6ed07._.js",
+      "static/chunks/[root-of-the-server]__194b5906._.css",
+      "static/chunks/ff63d_@vercel_analytics_dist_react_index_mjs_3fd00bfe._.js",
+      "static/chunks/13466_Área de Trabalho_costanzaVE-master_frontend-next_src_app_layout_tsx_2c63c473._.js",
+      "static/chunks/ff63d_next_dist_client_components_builtin_global-error_12041f72.js",
+      "static/chunks/ff63d_01e47f2f._.js",
+      "static/chunks/OneDrive_Área de Trabalho_costanzaVE-master_frontend-next_src_69921028._.js",
+      "static/chunks/13466_Área de Trabalho_costanzaVE-master_frontend-next_src_app_page_tsx_12041f72._.js",
+      "static/chunks/[turbopack]_browser_dev_hmr-client_hmr-client_ts_a55d0714._.js",
+      "static/chunks/ff63d_next_dist_compiled_react-dom_a9f2bee1._.js",
+      "static/chunks/ff63d_next_dist_compiled_next-devtools_index_37d09b05.js",
+      "static/chunks/ff63d_next_dist_compiled_8ae4db62._.js",
+      "static/chunks/ff63d_next_dist_client_37f8193a._.js",
+      "static/chunks/ff63d_next_dist_255c857c._.js",
+      "static/chunks/ff63d_@swc_helpers_cjs_7bdf068d._.js",
+      "static/chunks/OneDrive_Área de Trabalho_costanzaVE-master_frontend-next_a0ff3932._.js",
+      "static/chunks/turbopack-OneDrive_Área de Trabalho_costanzaVE-master_frontend-next_dd4ee5cc._.js"
+    ]
+  }
+}
