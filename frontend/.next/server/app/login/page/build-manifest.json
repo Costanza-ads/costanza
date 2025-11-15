@@ -1,0 +1,21 @@
+{
+  "devFiles": [],
+  "ampDevFiles": [],
+  "polyfillFiles": [
+    "static/chunks/12d47_next_dist_build_polyfills_polyfill-nomodule.js"
+  ],
+  "lowPriorityFiles": [],
+  "rootMainFiles": [
+    "static/chunks/[turbopack]_browser_dev_hmr-client_hmr-client_ts_6533e7e2._.js",
+    "static/chunks/12d47_next_dist_compiled_react-dom_65c36759._.js",
+    "static/chunks/12d47_next_dist_compiled_next-devtools_index_8a1cbb31.js",
+    "static/chunks/12d47_next_dist_compiled_c2e6cc99._.js",
+    "static/chunks/12d47_next_dist_client_33e3e456._.js",
+    "static/chunks/12d47_next_dist_050a07a0._.js",
+    "static/chunks/12d47_@swc_helpers_cjs_fb4a8e5c._.js",
+    "static/chunks/OneDrive_Área de Trabalho_costanzaVE_frontend_a0ff3932._.js",
+    "static/chunks/turbopack-OneDrive_Área de Trabalho_costanzaVE_frontend_8e1ae57c._.js"
+  ],
+  "pages": {},
+  "ampFirstPages": []
+}
